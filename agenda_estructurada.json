@@ -1,0 +1,1037 @@
+[
+  {
+    "texto": "\t•\tInstalar sistema eléctrico para apertura trasera, urgente",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPintura color gris oscuro para vehículo",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#vehiculo"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tSustituir amortiguadores de ventanas laterales, urgente",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPendiente revisar documentación entregada, falta hoja resumen de necesidades para planificación de personal",
+    "fecha": null,
+    "urgencia": "pendiente",
+    "tipo": "revisión",
+    "categoría": "trabajo",
+    "etiquetas": [
+      "#trabajo",
+      "#revisión"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tEvaluar herramienta de inteligencia artificial basada en interfaz visual",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tCrear sistema automático para registrar anotaciones desde diferentes dispositivos",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tComparar modelos de poleas industriales en Amazon: https://www.amazon.es/gp/product/B0B78FYLGD/ref=ewc_pr_img_1?smid=A1SHU78ZPYPZ63&th=1",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "compras",
+    "etiquetas": [
+      "#amazon"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tBuscar estructura de cama 185x135 en plataformas de segunda mano",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "compra",
+    "categoría": "compras",
+    "etiquetas": [
+      "#compra",
+      "#compras"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tComprar amortiguadores en Amazon para ventanas elevables",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "compra",
+    "categoría": "compras",
+    "etiquetas": [
+      "#amazon"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tUrgente: revisar y presentar documentación fiscal antes del plazo",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "gestión",
+    "categoría": "trabajo",
+    "etiquetas": [
+      "#gestión",
+      "#trabajo"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tUrgente: completar el registro de la vivienda en la administración digital",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tRevisar tareas pendientes asignadas a diferentes personas; algunos no han actualizado el estado y otros han duplicado archivos sin sentido",
+    "fecha": null,
+    "urgencia": "pendiente",
+    "tipo": "revisión",
+    "categoría": "general",
+    "etiquetas": [
+      "#general",
+      "#revisión"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tSe ha incorporado una nueva función para compartir documentos directamente con terceros, revisar su funcionamiento",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "revisión",
+    "categoría": "general",
+    "etiquetas": [
+      "#general",
+      "#revisión"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tDetección de errores en la actualización de ciertos elementos: aparecen varias copias y no se entiende el criterio de agrupación",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tLimitación de acceso a algunos elementos, no se puede avanzar sin validación previa",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tEn uno de los dispositivos, no carga la interfaz correctamente, aparece pantalla de error con elementos desconfigurados",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tEn otro entorno, el diseño no es óptimo pero la funcionalidad es estable",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tAlgunos elementos no presentan fallos",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tTarea interna:",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tIdentificar conceptos clave en los textos",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tAsociar etiquetas temáticas a cada fragmento",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tReorganizar contenido si hay cambios relevantes",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tHabilitar respuestas automáticas ante consultas",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tRegistrar nuevas dudas y generar una base de términos consultados automáticamente",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\t23/05/25: contactar con persona responsable para aclarar procedimiento urgente",
+    "fecha": "23/05/2025",
+    "urgencia": "urgente",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t24/05/25: confirmar asistencia a la reunión de coordinación logística",
+    "fecha": "24/05/25",
+    "urgencia": "sin prioridad",
+    "tipo": "reunión",
+    "categoría": "trabajo",
+    "etiquetas": [
+      "#reunión",
+      "#trabajo"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPendiente: revisar facturas acumuladas del último trimestre",
+    "fecha": null,
+    "urgencia": "pendiente",
+    "tipo": "revisión",
+    "categoría": "general",
+    "etiquetas": [
+      "#general",
+      "#revisión"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tUrgente: enviar justificante de residencia antes del lunes",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "gestión",
+    "categoría": "general",
+    "etiquetas": [
+      "#gestión",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tLlamar a gestoría para resolver incidencia con referencia catastral",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "llamada",
+    "categoría": "ocio",
+    "etiquetas": [
+      "#llamada",
+      "#ocio"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\t26/05/25: reunión con técnico de mantenimiento, llevar documentación",
+    "fecha": "26/05/25",
+    "urgencia": "sin prioridad",
+    "tipo": "reunión",
+    "categoría": "trabajo",
+    "etiquetas": [
+      "#reunión",
+      "#trabajo"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tContactar con proveedor de herramientas, falta albarán de entrega",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\t27/05/25: revisar inventario de materiales en almacén principal",
+    "fecha": "27/05/25",
+    "urgencia": "sin prioridad",
+    "tipo": "revisión",
+    "categoría": "general",
+    "etiquetas": [
+      "#general",
+      "#revisión"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tUrgente: renovar tarjeta identificativa antes de que caduque",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPendiente: recoger certificado en la oficina de atención ciudadana",
+    "fecha": null,
+    "urgencia": "pendiente",
+    "tipo": "otro",
+    "categoría": "trabajo",
+    "etiquetas": [
+      "#otro",
+      "#trabajo"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\t28/05/25: actualizar datos en la plataforma de seguimiento interno",
+    "fecha": "28/05/25",
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tLlamar a administración para confirmar la hora de la cita",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "llamada",
+    "categoría": "general",
+    "etiquetas": [
+      "#llamada",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tUrgente: presentar escrito en registro oficial antes de las 13:00",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "gestión",
+    "categoría": "general",
+    "etiquetas": [
+      "#gestión",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\t29/05/25: coordinar desplazamiento con responsable de vehículos",
+    "fecha": "29/05/25",
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#vehiculo"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPendiente: revisar correspondencia física en el buzón de entrada",
+    "fecha": null,
+    "urgencia": "pendiente",
+    "tipo": "revisión",
+    "categoría": "general",
+    "etiquetas": [
+      "#general",
+      "#revisión"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tUrgente: activar dispositivo de respaldo y comprobar batería",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\tLlamar a mi hermano para quedar este fin de semana",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "llamada",
+    "categoría": "personal",
+    "etiquetas": [
+      "#familia"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPendiente: avisar a mi prima sobre el cumpleaños del abuelo",
+    "fecha": null,
+    "urgencia": "pendiente",
+    "tipo": "otro",
+    "categoría": "personal",
+    "etiquetas": [
+      "#otro",
+      "#personal"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\t30/05/25: llevar a revisión el coche de mis padres",
+    "fecha": "30/05/25",
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "personal",
+    "etiquetas": [
+      "#revision",
+      "#vehiculo",
+      "#familia"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tUrgente: preguntar a mi hermana si ha comprado ya el regalo",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "otro",
+    "categoría": "compras",
+    "etiquetas": [
+      "#otro",
+      "#compras"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tLlamar a casa para saber si llegó el paquete",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "llamada",
+    "categoría": "personal",
+    "etiquetas": [
+      "#llamada",
+      "#personal"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\t01/06/25: comida familiar, confirmar restaurante",
+    "fecha": "01/06/25",
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "personal",
+    "etiquetas": [
+      "#familia"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tMandar mensaje a mi tío para saber si viene en julio",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "gestión",
+    "categoría": "personal",
+    "etiquetas": [
+      "#gestión",
+      "#personal"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPreguntar a mi madre por la receta de lentejas",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "personal",
+    "etiquetas": [
+      "#otro",
+      "#personal"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPendiente: arreglar la lámpara del comedor",
+    "fecha": null,
+    "urgencia": "pendiente",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tUrgente: comprar aspirinas para el botiquín de casa",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "compra",
+    "categoría": "salud",
+    "etiquetas": [
+      "#salud",
+      "#compra"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPelículas pendientes: “La zona de interés”, “Past Lives”, “Poor Things”",
+    "fecha": null,
+    "urgencia": "pendiente",
+    "tipo": "ocio",
+    "categoría": "ocio",
+    "etiquetas": [
+      "#ocio"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tVer documental sobre escalada recomendado por Eva",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "ocio",
+    "categoría": "ocio",
+    "etiquetas": [
+      "#ocio"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tBuscar crítica de “The Banshees of Inisherin”",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "compra",
+    "categoría": "compras",
+    "etiquetas": [
+      "#compra",
+      "#compras"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tTrabajo: revisar listado de tareas finalizadas esta semana",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "revisión",
+    "categoría": "trabajo",
+    "etiquetas": [
+      "#trabajo",
+      "#revisión"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\t03/06/25: reunión con el nuevo responsable de área",
+    "fecha": "03/06/25",
+    "urgencia": "sin prioridad",
+    "tipo": "reunión",
+    "categoría": "trabajo",
+    "etiquetas": [
+      "#reunión",
+      "#trabajo"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPendiente: enviar el informe de resultados del trimestre",
+    "fecha": null,
+    "urgencia": "pendiente",
+    "tipo": "gestión",
+    "categoría": "general",
+    "etiquetas": [
+      "#gestión",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tUrgente: cerrar el documento de evaluación antes del viernes",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "otro",
+    "categoría": "trabajo",
+    "etiquetas": [
+      "#otro",
+      "#trabajo"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tEscribir resumen de objetivos para el segundo semestre",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tLlamar a compañera para comentar reparto de funciones",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "llamada",
+    "categoría": "general",
+    "etiquetas": [
+      "#llamada",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tRevisar protocolo interno actualizado",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "revisión",
+    "categoría": "trabajo",
+    "etiquetas": [
+      "#trabajo",
+      "#revisión"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tAñadir al calendario las fechas de entrega definitivas",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tOrganizar carpetas compartidas con etiquetas claras",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\t04/06/25: entrega de documentos firmados en dirección",
+    "fecha": "04/06/25",
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tUrgente: responder al correo de la unidad de gestión",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "otro",
+    "categoría": "trabajo",
+    "etiquetas": [
+      "#otro",
+      "#trabajo"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tLlamar a Rosa para saber si han confirmado la actividad",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "llamada",
+    "categoría": "general",
+    "etiquetas": [
+      "#llamada",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPedir cita para revisión médica anual",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "salud",
+    "etiquetas": [
+      "#revision"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPendiente: comprar funda para la tablet",
+    "fecha": null,
+    "urgencia": "pendiente",
+    "tipo": "compra",
+    "categoría": "compras",
+    "etiquetas": [
+      "#compra",
+      "#compras"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tHacer copia de seguridad del portátil",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tAnotar nueva contraseña en el gestor seguro",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tComprar filtro nuevo para la cafetera",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "compra",
+    "categoría": "compras",
+    "etiquetas": [
+      "#compra",
+      "#compras"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPasar la ITV antes del 15/06/25",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPreguntar en la comunidad sobre el arreglo de la puerta del garaje",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "trabajo",
+    "etiquetas": [
+      "#otro",
+      "#trabajo"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tUrgente: poner gasolina antes de la salida del lunes",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tRecordar pedir cita al podólogo antes del verano",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "ocio",
+    "categoría": "salud",
+    "etiquetas": [
+      "#salud",
+      "#ocio"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tLlevar ropa al tinte, urgente",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "otro",
+    "categoría": "personal",
+    "etiquetas": [
+      "#otro",
+      "#personal"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\t06/06/25: pagar el seguro del hogar",
+    "fecha": "06/06/25",
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tCambiar la bombilla del pasillo",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "compras",
+    "etiquetas": [
+      "#otro",
+      "#compras"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tPendiente: enviar el regalo de cumpleaños de Clara",
+    "fecha": null,
+    "urgencia": "pendiente",
+    "tipo": "gestión",
+    "categoría": "compras",
+    "etiquetas": [
+      "#gestión",
+      "#compras"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tHacer hueco en el trastero para guardar las cajas de libros",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tLlamar a Mónica para devolverle la sartén",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "llamada",
+    "categoría": "ocio",
+    "etiquetas": [
+      "#llamada",
+      "#ocio"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tComprar protector solar y repelente de insectos",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "compra",
+    "categoría": "compras",
+    "etiquetas": [
+      "#compra",
+      "#compras"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tBuscar nueva mochila pequeña para escapadas",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "compra",
+    "categoría": "ocio",
+    "etiquetas": [
+      "#compra",
+      "#ocio"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tUrgente: confirmar las fechas del viaje de julio",
+    "fecha": null,
+    "urgencia": "urgente",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tLeer capítulo pendiente del libro de Irene Vallejo",
+    "fecha": null,
+    "urgencia": "pendiente",
+    "tipo": "otro",
+    "categoría": "ocio",
+    "etiquetas": [
+      "#otro",
+      "#ocio"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tActualizar lista de deseos en la biblioteca digital",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "ocio",
+    "etiquetas": [
+      "#otro",
+      "#ocio"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tInvestigar opciones para escapada rural en septiembre",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "general",
+    "etiquetas": [
+      "#otro",
+      "#general"
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "texto": "\t•\tOrganizar el álbum de fotos familiares antes de agosto",
+    "fecha": null,
+    "urgencia": "sin prioridad",
+    "tipo": "otro",
+    "categoría": "ocio",
+    "etiquetas": [
+      "#familia"
+    ],
+    "estado": "pendiente"
+  }
+]
