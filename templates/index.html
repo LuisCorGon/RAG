@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Asistente de Agenda</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>🧠 Asistente de Agenda</h1>
+    <form method="post">
+        <input name="question" type="text" placeholder="Escribe tu pregunta aquí..." autofocus required>
+        <button type="submit">Enviar</button>
+    </form>
+    <div class="chat">
+        {% for mensaje in history %}
+            <div class="mensaje">{{ mensaje | safe }}</div>
+        {% endfor %}
+    </div>
+</body>
+</html>

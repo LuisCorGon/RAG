@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    background-color: #222222;
+}
+
+h1 {
+    color: #ccc;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input {
+    width: 70%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 10px;
+}
+
+.chat {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    max-width: 800px;
+}
+
+.mensaje {
+    margin-bottom: 15px;
+    line-height: 1.5;
+}
